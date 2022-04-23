@@ -1,0 +1,36 @@
+.choose-container {
+  background-image: url('https://res.cloudinary.com/debrutohq/image/upload/v1650682509/Why-choose-us_new_h4cumo.gif');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.choose-content {
+  margin-left: 600px;
+  margin-top: 25px;
+}
+
+.choose-img {
+  height: 100px;
+}
+
+.choose-image {
+  text-align: center;
+  margin: 30px;
+}
+
+.choose-paragraph {
+  text-align: center;
+  font-weight: 600;
+  font-family: 'Roboto';
+  margin-top: 5px;
+}
+
+.choose-image-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}

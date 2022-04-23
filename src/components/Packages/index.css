@@ -1,0 +1,42 @@
+.package-heading {
+  text-align: center;
+  font-size: 28px;
+  color: rgb(168, 105, 22);
+  margin: 20px;
+}
+
+.bottom-card {
+  background-color: #c5c5c5;
+  width: 350px;
+  border-radius: 10px;
+  margin: 15px;
+}
+
+.pack-heading {
+  text-align: center;
+  font-size: 32px;
+  font-family: 'bree serif';
+  margin: 10px;
+  color: rgb(160, 103, 39);
+}
+
+.pack-paragraph {
+  text-align: center;
+  font-size: 22px;
+  font-family: 'Roboto';
+  margin: 10px;
+}
+
+.list-container {
+  margin: 30px;
+  padding: 10px;
+  font-size: 18px;
+  font-family: 'Roboto';
+}
+
+.pack-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+}

@@ -1,0 +1,15 @@
+.player-heading {
+  text-align: center;
+  font-size: 32px;
+  color: rgb(145, 83, 42);
+  font-family: 'bree serif';
+  margin: 15px;
+}
+
+.video-player-container {
+  width: 90vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 20px;
+}

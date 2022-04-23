@@ -1,0 +1,46 @@
+* {
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+}
+
+.review-container {
+  background-color: rgb(224, 227, 243);
+}
+
+.review-heading {
+  text-align: center;
+  color: rgb(66, 36, 36);
+  margin-top: 20px;
+}
+
+.review-paragraph {
+  font-size: 20px;
+}
+
+.clients-container {
+  margin: 0px;
+  width: 35vw;
+  margin: 40px;
+  padding-top: 40px;
+}
+
+.video-container {
+  margin: 10px;
+  width: 350vw;
+}
+
+.clients-bottom {
+  display: flex;
+  padding: 20px;
+  justify-content: center;
+}
+
+@media screen and (max-width: 768px) {
+  .clients-bottom {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px;
+  }
+}

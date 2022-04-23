@@ -1,0 +1,39 @@
+.card-contain {
+  display: flex;
+  justify-content: center;
+}
+
+.small-container {
+  display: flex;
+  justify-content: center;
+}
+
+.card-heading {
+  margin: 20px;
+}
+
+.select-con {
+  margin: 20px;
+  width: 300px;
+}
+
+.card-container {
+  border-radius: 10px;
+  border-color: black;
+  border-width: 1px;
+  border-style: solid;
+  margin: 20px;
+  padding: 20px;
+}
+
+.buttoned-container {
+  text-align: center;
+}
+
+.buttoned {
+  text-align: center;
+  background-color: blue;
+  color: #ffffff;
+  padding: 5px;
+  margin: 10px;
+}

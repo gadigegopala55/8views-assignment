@@ -1,0 +1,21 @@
+.gallery-container {
+  padding: 30px;
+}
+
+.gallery-heading {
+  font-size: 32px;
+  text-align: center;
+  font-family: 'bree serif';
+  margin: 25px;
+}
+
+.image-container {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.image {
+  margin: 10px;
+}
